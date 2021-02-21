@@ -34,6 +34,13 @@ const account4 = {
   pin: 4444,
 };
 
+const account5 = {
+  owner: 'John Doe',
+  movements: [230, 2000, 500, 70, 80],
+  interestRate: 1,
+  pin: 4444,
+};
+
 const accounts = [account1, account2, account3, account4];
 
 /////////////////////////////////////////////////
